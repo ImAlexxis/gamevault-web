@@ -1,0 +1,18 @@
+body{
+    font-family: Arial;
+    background:#111;
+    color:white;
+    text-align:center;
+}
+
+#games{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+}
+
+.game{
+    background:#222;
+    padding:15px;
+    border-radius:10px;
+}
